@@ -46,4 +46,3 @@ This project focuses on:
 3. Select output currency
 4. Conversion happens automatically
 
-Conversion formula:
