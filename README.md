@@ -46,3 +46,20 @@ This project focuses on:
 3. Select output currency
 4. Conversion happens automatically
 
+## 📸 App Snapshots
+
+<p align="center">
+  <img src="snapshots/1.png" width="220"/>
+  <img src="snapshots/2.png" width="220"/>
+  <img src="snapshots/3.png" width="220"/>
+</p>
+
+<p align="center">
+  <img src="snapshots/4.png" width="220"/>
+  <img src="snapshots/5.png" width="220"/>
+  <img src="snapshots/6.png" width="220"/>
+</p>
+
+<p align="center">
+  <img src="snapshots/7.png" width="220"/>
+</p>
